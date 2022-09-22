@@ -5,7 +5,7 @@
 ### All Vehicles pay a 15% tax
 ### RollerCoater rides pay 20% tax
 
--  Instantiate 4 Type of Vehicle objects called car truck  bike and also create a roller coaster object in main
+-  Instantiate 4 Type of Vehicle objects: Car, Truck,  Bike and a RollerCoaster object in main
 -  Create an Array of Vehicles to store your vehicle objects in main
 -  Invoke the printVehicleNamesAndPrices to print the names and prices of the vehicles in main
 - Create an Array of Rideable objects to store your Rideable rides and store only rideable objects in main
