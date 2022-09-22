@@ -10,7 +10,7 @@
 -  Invoke the printVehicleNamesAndPrices to print the names and prices of the vehicles
 - Create an Array of Rideable objects to store your Rideable rides and store only rideable objects inside
 - Invoke the getSpeedOfRideableObjects()
-- Invoke the totalAfterTax on each object
-- Invoke the totalBeforeTax on each object
+- Invoke the totalAfterTax on each Vehicle
+- Invoke the totalBeforeTax on each Vehichle
 
 
