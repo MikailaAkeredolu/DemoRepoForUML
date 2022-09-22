@@ -5,6 +5,8 @@
 ### All Vehicles pay a 15% tax
 ### RollerCoater rides pay 20% tax
 
+#### Do the follwing inside your main method()
+
 -  Instantiate 4 Type of Vehicle objects: Car, Truck,  Bike and a RollerCoaster object in main
 -  Create an Array of Vehicles to store your vehicle objects in main
 -  Invoke the printVehicleNamesAndPrices to print the names and prices of the vehicles in main
