@@ -12,8 +12,6 @@
 -  Invoke the printVehicleNamesAndPrices to print the names and prices of the vehicles in main
 - Create an Array of Rideable objects to store your Rideable rides and store only rideable objects in main
 - Invoke the getSpeedOfRideableObjects() in main
-- Invoke the totalAfterTax in main
-- Invoke the totalBeforeTax in main
 
 
 # Homework 2
