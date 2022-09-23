@@ -57,6 +57,7 @@
 ### Part 5 - Case class:
 
 - Create the following private properties/ivars as well as getters String model; String manufacturer; String powerSupply; Dimensions dimensions;
+- Create a **pressPowerButton()** method that returns nothing but prints out the text "PowerButton Pressed
 
 ### Part 6 - Dimension class:
 - Create the following properties/instance variables as well as getters, constructors...int width; int height; int depth;
